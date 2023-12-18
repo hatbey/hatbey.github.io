@@ -200,7 +200,7 @@ nav.navbar.bootsnav .navbar-toggle i{color: #253342;}
     content: " ";
     top:0;
     left:0;
-    background:rgba(31,44,108,.65);
+    background:rgba(94, 99, 124, 0.65);
     width:100%;
     height:100%;
 }
@@ -279,7 +279,7 @@ nav.navbar.bootsnav .navbar-toggle i{color: #253342;}
     left:  0;
     width: 109%;
     height:  100%;
-    background: rgba(31,44,108,.3);
+    
 }
 .single-about-img img {
     max-width: 500px;
@@ -852,4 +852,8 @@ span.single-timeline-horizontal.spacial-horizontal-line {width: 88px;}
     0%   {bottom:0px;}
     100%  {bottom:7px;}
 }
+
+
+
+
 /*========================Thank you=================
